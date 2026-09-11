@@ -14,6 +14,7 @@ import com.estudosjava.developer.entities.Product;
 import com.estudosjava.developer.entities.User;
 import com.estudosjava.developer.entities.enums.OrderStatus;
 import com.estudosjava.developer.repositories.CategoryRepository;
+import com.estudosjava.developer.repositories.OrderItemRepository;
 import com.estudosjava.developer.repositories.OrderRepository;
 import com.estudosjava.developer.repositories.ProductRepository;
 import com.estudosjava.developer.repositories.UserRepository;
@@ -33,6 +34,7 @@ public class TestConfig implements CommandLineRunner {
 	
 	@Autowired
 	private ProductRepository productRepository;
+	
 	
 	@Override
 	public void run(String... args) throws Exception {
