@@ -1,5 +1,7 @@
 # Workshop Spring Boot e JPA
 
+*Read in [English](README.md)*
+
 Projeto: Web services com Spring Boot e JPA / Hibernate, desenvolvido durante o curso **Java COMPLETO**, ministrado pelo Prof. Nélio Alves (DevSuperior).
 
 ## Sobre o projeto
